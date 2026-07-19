@@ -57,3 +57,8 @@ Xbox Game Pass, and all associated logos and trademarks are the property of
 Microsoft Corporation.** All other trademarks are the property of their respective
 owners. This app does not host, modify, or redistribute any game content — it simply
 displays the official [xbox.com/play](https://www.xbox.com/play) website.
+
+Use this app at your own risk — it is provided as-is, with no warranty of any kind.
+This GitHub repository is the **only official source** for CloudJoy; it is not published
+anywhere else (no Play Store, no app stores, no other websites). Any copy found
+elsewhere is unofficial and should not be trusted.
