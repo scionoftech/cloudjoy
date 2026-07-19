@@ -45,6 +45,10 @@ and open the APK from there.
 - The release APK is signed with the debug key — fine for personal sideloading, not for
   Play Store distribution.
 
+## License
+
+[MIT](LICENSE) © 2026 Sai Kumar Yava
+
 ## Disclaimer
 
 CloudJoy is an unofficial, independent personal project. It is not affiliated with,
