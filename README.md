@@ -44,3 +44,12 @@ and open the APK from there.
 - **Login** persists via cookies; you only sign in once.
 - The release APK is signed with the debug key — fine for personal sideloading, not for
   Play Store distribution.
+
+## Disclaimer
+
+CloudJoy is an unofficial, independent personal project. It is not affiliated with,
+endorsed by, or sponsored by Microsoft Corporation. **Xbox, Xbox Cloud Gaming,
+Xbox Game Pass, and all associated logos and trademarks are the property of
+Microsoft Corporation.** All other trademarks are the property of their respective
+owners. This app does not host, modify, or redistribute any game content — it simply
+displays the official [xbox.com/play](https://www.xbox.com/play) website.
