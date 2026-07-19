@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+
+# Local machine config (SDK path)
+local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Kotlin
+.kotlin/
+
+# OS
+.DS_Store
+
+# Stray leftover folder with a nested .git (safe to delete)
+StreamPadTV/
+
+# Signing keys — never commit
+*.jks
+*.keystore
+
+# Note: cloudjoy-*.apk at the repo root is intentionally committed for download;
+# build outputs are already excluded via build/
